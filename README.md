@@ -1,0 +1,2 @@
+# Two-Stage-CMOS-Operational-Amplifier-Analysis-and-Design
+-in this presented paper design and implementation of two stage operational amplifier operates at 2.9V to 3.7V power supply at 180nm CMOS technology. The proposed two stage op amp produces high gain. Design and simulations results are verified using CADENCE tool. This design has accomplished a high power supply rejection ratio (PSRR) greater than -80db and other performance parameters such as input common mode range (ICMR), common mode rejection ratio (CMRR) and slew rate is verified.
